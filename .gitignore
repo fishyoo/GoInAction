@@ -20,3 +20,10 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+#goland
+.DS_Store
+.idea
+pkg/*
+bin/*
+
